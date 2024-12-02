@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wgru8UzPRCPtWSsSPGkvMgdaqo3QeaJ/sBaHPoMi8vQ=",
+  "Source": "dot-net-reminder",
+  "BasePath": "_content/dot-net-reminder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
